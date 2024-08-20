@@ -352,7 +352,7 @@ solana-perf = { path = "perf", version = "=2.0.0" }
 solana-poh = { path = "poh", version = "=2.0.0" }
 solana-program = { path = "sdk/program", version = "=2.0.0" }
 solana-program-runtime = { path = "program-runtime", version = "=2.0.0" }
-solana-program-test = { path = "program-test", version = "=1.18.22" }
+solana-program-test = { path = "program-test", version = "=2.0.0" }
 solana-pubsub-client = { path = "pubsub-client", version = "=2.0.0" }
 solana-quic-client = { path = "quic-client", version = "=2.0.0" }
 solana-rayon-threadlimit = { path = "rayon-threadlimit", version = "=2.0.0" }
