@@ -27,7 +27,7 @@ solana-program-runtime = { version = "=1.18.18" }
 solana-runtime = { version = "=1.18.18" }
 solana-sdk = { version = "=1.18.18" }
 solana-vote-program = { version = "=1.18.18" }
-solana_rbpf = "0.8.4"
+solana_rbpf = "=0.8.5"
 test-case = "3.2.1"
 thiserror = "1.0.49"
 tokio = { version = "1.29.1", features = ["full"] }
